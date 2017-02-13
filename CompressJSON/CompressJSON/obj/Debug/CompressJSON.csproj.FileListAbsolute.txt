@@ -1,0 +1,9 @@
+c:\users\blc\documents\visual studio 2015\Projects\CompressJSON\CompressJSON\bin\Debug\CompressJSON.exe.config
+c:\users\blc\documents\visual studio 2015\Projects\CompressJSON\CompressJSON\bin\Debug\CompressJSON.exe
+c:\users\blc\documents\visual studio 2015\Projects\CompressJSON\CompressJSON\bin\Debug\CompressJSON.pdb
+c:\users\blc\documents\visual studio 2015\Projects\CompressJSON\CompressJSON\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\blc\documents\visual studio 2015\Projects\CompressJSON\CompressJSON\obj\Debug\CompressJSON.Form1.resources
+c:\users\blc\documents\visual studio 2015\Projects\CompressJSON\CompressJSON\obj\Debug\CompressJSON.Properties.Resources.resources
+c:\users\blc\documents\visual studio 2015\Projects\CompressJSON\CompressJSON\obj\Debug\CompressJSON.csproj.GenerateResource.Cache
+c:\users\blc\documents\visual studio 2015\Projects\CompressJSON\CompressJSON\obj\Debug\CompressJSON.exe
+c:\users\blc\documents\visual studio 2015\Projects\CompressJSON\CompressJSON\obj\Debug\CompressJSON.pdb

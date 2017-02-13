@@ -1,0 +1,9 @@
+c:\users\blc\documents\visual studio 2015\Projects\NetworkCard\NetworkCard\bin\Debug\NetworkCard.exe.config
+c:\users\blc\documents\visual studio 2015\Projects\NetworkCard\NetworkCard\bin\Debug\NetworkCard.exe
+c:\users\blc\documents\visual studio 2015\Projects\NetworkCard\NetworkCard\bin\Debug\NetworkCard.pdb
+c:\users\blc\documents\visual studio 2015\Projects\NetworkCard\NetworkCard\obj\Debug\NetworkCard.Form1.resources
+c:\users\blc\documents\visual studio 2015\Projects\NetworkCard\NetworkCard\obj\Debug\NetworkCard.Properties.Resources.resources
+c:\users\blc\documents\visual studio 2015\Projects\NetworkCard\NetworkCard\obj\Debug\NetworkCard.csproj.GenerateResource.Cache
+c:\users\blc\documents\visual studio 2015\Projects\NetworkCard\NetworkCard\obj\Debug\NetworkCard.exe
+c:\users\blc\documents\visual studio 2015\Projects\NetworkCard\NetworkCard\obj\Debug\NetworkCard.pdb
+c:\users\blc\documents\visual studio 2015\Projects\NetworkCard\NetworkCard\obj\Debug\NetworkCard.Resource1.resources
